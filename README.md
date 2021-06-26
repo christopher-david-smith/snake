@@ -13,3 +13,5 @@ The goals of this project were to
 - [x] Learn how to use pygame
 - [x] Learn how to manage different game states
 - [x] Learn how to create a simple menu
+
+![gif of snake game in action](https://github.com/christopherdavidsmith/snake/raw/main/images/demo.gif)
