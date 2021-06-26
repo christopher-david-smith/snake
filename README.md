@@ -7,3 +7,9 @@ To run the game;
 pip install -r requirements.txt
 python snake
 ```
+
+The goals of this project were to
+
+- [x] Learn how to use pygame
+- [x] Learn how to manage different game states
+- [x] Learn how to create a simple menu
