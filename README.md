@@ -7,3 +7,5 @@ To run the game;
 pip install -r requirements.txt
 python snake
 ```
+
+![gif of snake game in action](https://github.com/christopherdavidsmith/snake/raw/main/images/demo.gif)
