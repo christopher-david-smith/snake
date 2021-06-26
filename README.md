@@ -1,3 +1,9 @@
-# pygame Snake
+# snake
 
-A simple snake clone using pygame. To run, install the requirements (`pip install -r requirements.txt`) and then run `python snake`.
+This is a simply snake clone using pygame. 
+
+To run the game;
+```python
+pip install -r requirements.txt
+python snake
+```
